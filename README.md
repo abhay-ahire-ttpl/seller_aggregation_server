@@ -5,13 +5,13 @@ Here are the steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/abhay-ahire-ttpl/seller_aggregation.git
+   git clone https://github.com/abhay-ahire-ttpl/seller_aggregation_server.git
    ```
 
    Navigate to the project directory:
 
    ```
-   cd seller_aggregation
+   cd seller_aggregation_server
    ```
 
 2. Open the src/main/resources/application.properties file and configure the database settings. You may need to set the URL, username, and password for your database.
